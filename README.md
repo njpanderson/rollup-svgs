@@ -1,7 +1,6 @@
 # Rollup SVG demo
 
-This is a supporting project to tie in with a tutorial I wrote here:
-[link to tutorial]
+This is a supporting project to tie in with a [tutorial I wrote](http://neilinscotland.net/2017/06/10/creating-an-svg-…et-with-rollupjs/)
 
 The icon set can be found here:
 https://useiconic.com/open
