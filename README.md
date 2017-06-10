@@ -1,5 +1,7 @@
 # Rollup SVG demo
 
+![Icons](https://raw.githubusercontent.com/njpanderson/rollup-svgs/master/icons.png)
+
 This is a supporting project to tie in with a [tutorial I wrote](http://neilinscotland.net/2017/06/10/creating-an-svg-…et-with-rollupjs/).
 
 The icon set can be found here:
