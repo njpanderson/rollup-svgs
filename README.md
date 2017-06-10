@@ -1,6 +1,6 @@
 # Rollup SVG demo
 
-This is a supporting project to tie in with a [tutorial I wrote](http://neilinscotland.net/2017/06/10/creating-an-svg-…et-with-rollupjs/)
+This is a supporting project to tie in with a [tutorial I wrote](http://neilinscotland.net/2017/06/10/creating-an-svg-…et-with-rollupjs/).
 
 The icon set can be found here:
 https://useiconic.com/open
@@ -13,8 +13,8 @@ https://rollupjs.org
 
 ## Installing from local development
 
- - Clone the repository
- - Run `npm i`
+ - Clone the repository.
+ - Run `npm i`.
 
 You can then build with `npm run build` and load the `dist/index.html` file in
 your browser. You can also view an [online version of this demo](http://neilinscotland.net/rollup-svg/).
